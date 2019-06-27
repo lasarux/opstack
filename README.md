@@ -1,5 +1,7 @@
 # Stack
 
+Python library to store info about operations done in a variable
+
 ```$ ipython
 Python 3.7.3 (default, May  1 2019, 11:43:13) 
 Type 'copyright', 'credits' or 'license' for more information

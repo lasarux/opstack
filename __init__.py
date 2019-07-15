@@ -1,10 +1,10 @@
 class Stack(object):
     """number with memory"""
-    _stack = []
-    _log = []
-    _operation = []
 
     def __init__(self, value=0, log=None):
+        self._stack = []
+        self._log = []
+        self._operation = []
         self._stack.append(value)
         if log:
             self._log.append(log)
